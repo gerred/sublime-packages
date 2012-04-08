@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+  "vintage_start_in_command_mode": true,
+  "save_on_focus_lost": true,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_whitespace_on_save": true,
+  "hot_exit": true,
+  "remember_open_files": false,
+  "tab_size": 4,
+  "rulers": [80, 120]
+}
