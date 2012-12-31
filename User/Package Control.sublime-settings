@@ -1,0 +1,10 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"Jade",
+		"Package Control",
+		"SublimeLinter"
+	]
+}
